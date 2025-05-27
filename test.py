@@ -1,5 +1,5 @@
-# manny's code
-#Today's date: 03Nov2021
+
+
 def func1(a, b):
     for i in range(1,100):
 
